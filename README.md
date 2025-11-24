@@ -1,6 +1,5 @@
 # 🧪 Proyecto QA Testing - Sistema Veterinaria Guau Guau
 
-> **Reconocido como "el proyecto más completo en 4 años" del programa Jóvenes a Programar**
 
 Proyecto de testing exhaustivo de un sistema de gestión veterinaria desarrollado como trabajo final en JAP 2024. Este repositorio contiene la documentación completa del proceso de QA, desde planificación hasta evaluación de resultados.
 
