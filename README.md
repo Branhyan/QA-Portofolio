@@ -5,7 +5,7 @@
 ![Team](https://img.shields.io/badge/Team-6%20people-orange)
 ![Duration](https://img.shields.io/badge/Duration-8%20weeks-purple)
 
-Proyecto de testing exhaustivo de un sistema de gestión veterinaria desarrollado como trabajo final en JAP 2024. Este repositorio contiene la documentación completa del proceso de QA, desde planificación hasta evaluación de resultados.
+Proyecto de testing exhaustivo de un sistema de gestión veterinaria desarrollado como trabajo final en JAP 2025. Este repositorio contiene la documentación completa del proceso de QA, desde planificación hasta evaluación de resultados.
 
 ---
 
@@ -79,7 +79,7 @@ Proyecto de testing exhaustivo de un sistema de gestión veterinaria desarrollad
 | Documento | Descripción | Páginas | Link |
 |-----------|-------------|---------|------|
 | **Estadísticas Visuales** | Métricas clave y gráficas del proyecto | 4 | [Ver PDF](docs/estadisticas.pdf) |
-| **Informe Técnico Completo** | Documentación exhaustiva del proyecto | 112 | [Ver PDF](docs/informe_completo.pdf) |
+| **Informe Técnico Completo** | Documentación exhaustiva del proyecto | 112 | [Ver PDF](docs/Informe_Completo.pdf) |
 | **Casos de Prueba** | Ejemplos de test cases diseñados | - | [Ver carpeta](test-cases/) |
 | **Informe Ejecutivo** | Resumen profesional del proyecto | 10 | *En preparación* |
 
