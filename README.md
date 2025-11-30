@@ -81,7 +81,7 @@ Proyecto de testing exhaustivo de un sistema de gestión veterinaria desarrollad
 | **Estadísticas Visuales** | Métricas clave y gráficas del proyecto | 4 | (En preparación) |
 | **Informe Técnico Completo** | Documentación exhaustiva del proyecto | 312 | [Ver PDF](docs/Informe_Completo.pdf) |
 | **Casos de Prueba** | Ejemplos de test cases diseñados | - | (En preparación) |
-| **Informe Ejecutivo** | Resumen profesional del proyecto | 10 | [Ver PDF](docs/Informe_Ejecutivo.pdf) |
+| **Resumen Ejecutivo** | Resumen profesional del proyecto | 10 | [Ver PDF](docs/Resumen_Ejecutivo.pdf) |
 
 ---
 
