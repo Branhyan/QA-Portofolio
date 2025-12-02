@@ -175,7 +175,7 @@ Proyecto de testing exhaustivo de un sistema de gestión veterinaria desarrollad
 ## 🔗 Links Relacionados
 
 - **LinkedIn:** [Mi perfil](www.linkedin.com/in/branhyan-bernas)
-- **Video del Proyecto:** *Próximamente*
+- **Video del Proyecto:** [Video en Youtube](https://youtu.be/3O-5FduUvjM)
 
 ---
 
@@ -184,7 +184,7 @@ Proyecto de testing exhaustivo de un sistema de gestión veterinaria desarrollad
 **Branhyan Bernaschina**  
 QA Tester | Coordinador de Equipos de Testing
 
-- 📧 Email: branhybernasp2@gmail.com
+- 📧 Email: branhyan.bernaschina@outlook.com
 - 💼 LinkedIn: www.linkedin.com/in/branhyan-bernas
 - 📍 Canelones, Uruguay
 
