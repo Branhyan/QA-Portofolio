@@ -78,8 +78,8 @@ Proyecto de testing exhaustivo de un sistema de gestión veterinaria desarrollad
 
 | Documento | Descripción | Páginas | Link |
 |-----------|-------------|---------|------|
-| **Resumen Ejecutivo** | Resumen profesional del proyecto | 10 | [Ver PDF](docs/Resumen_Ejecutivo.pdf) |
-| **Casos de Prueba** | Ejemplos de test cases diseñados | - | [Ver PDF](docs/Casos_de_Muestra.pdf) |
+| **Resumen Ejecutivo** | Resumen profesional del proyecto | 13 | [Ver PDF](docs/Resumen_Ejecutivo.pdf) |
+| **Casos de Prueba** | Ejemplos de test cases diseñados | 11 | [Ver PDF](docs/Casos_de_Muestra.pdf) |
 | **Muestra uso de JIRA** | Capturas de implementación de JIRA en el proyecto | - | (En preparación) |
 | **Estadísticas Visuales** | Métricas clave y gráficas del proyecto | 4 | (En preparación) |
 | **Informe Técnico Completo** | Documentación exhaustiva del proyecto | 312 | [Ver PDF](docs/Informe_Completo.pdf) |
