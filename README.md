@@ -79,7 +79,7 @@ Proyecto de testing exhaustivo de un sistema de gestión veterinaria desarrollad
 | Documento | Descripción | Páginas | Link |
 |-----------|-------------|---------|------|
 | **Resumen Ejecutivo** | Resumen profesional del proyecto | 13 | [Ver PDF](docs/Resumen_Ejecutivo.pdf) |
-| **Implementación y Gestión de Jira en el Proyecto** | Implementación de Jira como herramienta central de gestión, trazabilidad y planificación del proyecto. | 6 | [Ver PDF](Gestión_del_proyecto_en_Jira.pdf) |
+| **Implementación y Gestión de Jira en el Proyecto** | Implementación de Jira como herramienta central de gestión, trazabilidad y planificación del proyecto. | 6 | [Ver PDF](dpcs/Gestión_del_proyecto_en_Jira.pdf) |
 | **Casos de Prueba Seleccionados (Funcionales y No Funcionales)** | Ejemplos de test cases diseñados | 11 | [Ver PDF](docs/Casos_de_Muestra.pdf) |
 | **Informe Técnico Completo** | Documentación exhaustiva del proyecto | 312 | [Ver PDF](docs/Informe_Completo.pdf) |
 
